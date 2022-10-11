@@ -1,0 +1,17 @@
+.header {
+  background-color: #f55a5a;
+  height: 100px;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  font-family: "Inter", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.planeImg {
+  height: 50px;
+  width: 50px;
+  margin-right: 9px;
+}

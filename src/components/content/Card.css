@@ -1,0 +1,26 @@
+.card{
+    width:700px ;
+    margin-top: 50px;
+    display: flex;
+   
+   padding-bottom: 10px;
+   border-style: solid;
+   border-color: black;
+   border-top: 10px;
+   border-left: 10px;
+   border-right: 10px;
+}
+
+img{
+    width: 250px;
+    height: 275px;
+    left: 40px;
+    top: 100px;
+    border-radius: 9px;
+    margin-right: 50px;
+
+
+}
+.info{
+    width: 400px;
+}
